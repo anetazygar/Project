@@ -2,6 +2,12 @@
 Testing website https://anetazygar.pl/ built on CMS WordPress. <br>
 The website provides services in the field of website development and internet marketing.
 
+
+<img src="/image/screen.png" 
+   alt="Alt text" 
+   title="Optional title"
+   style="display: inline-block; margin: 0 auto; max-width: 300 px" >
+
 # Tests
 - Usability tests - checking whether the created website meets the assumed goals and requirements
 - Regression tests - RWD
