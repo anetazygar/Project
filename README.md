@@ -17,4 +17,6 @@ The website provides services in the field of website development and internet m
 
 # Test documentation
 <a href= "https://drive.google.com/file/d/1wVpAzz97Y-Vplehe7jp3Ncw4o1cKzBt2/view?usp=drive_link" target="_blank"> User stories </a> <br> 
-<a href= "https://drive.google.com/file/d/1BLMHVEt0V0PYAebrgLtKof2KVr_UT8Vs/view?usp=drive_link" target="_blank"> Warunki testowe </a> <br> 
+<a href= "https://drive.google.com/file/d/1BLMHVEt0V0PYAebrgLtKof2KVr_UT8Vs/view?usp=drive_link" target="_blank"> Test conditions </a> <br> 
+<a href= "https://drive.google.com/drive/folders/1N22NZVLvdZhhNK7BNVUfGDx8c5cAL8DG?usp=drive_link"> Test cases </a> <br> 
+<a href= "https://drive.google.com/file/d/1NuiEFJjeVEoy12beXdSViiyXzqYrt8Rr/view?usp=drive_link"> Test report - TestLink </a> <br> 
