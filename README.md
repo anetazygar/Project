@@ -5,7 +5,7 @@ The website provides services in the field of website development and internet m
 
 <img src="/image/screen.png" 
    alt="Alt text" 
-   title="Optional title"
+   title="website img"
    style="display: inline-block; margin: 0 auto; max-width: 300 px" >
 
 # Tests
